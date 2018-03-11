@@ -1,0 +1,8 @@
+#stugel fayleri vichak@
+git status 
+#avelacnel giti mej
+git add .
+#comentaria
+git commit -m "message"
+#uxarkel arac@ giti mej
+git push 
