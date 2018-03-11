@@ -18,3 +18,17 @@
 .g {
 	color:#000EFF;
 }
+ 
+p {
+	font-family: Tahoma,Verdana,sans-serif
+}
+
+p {
+	font-size :20px;
+}
+.name2 {
+	font-style:italic;
+}
+.name3 {
+	font-weight:bold;
+}
