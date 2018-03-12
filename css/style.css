@@ -25,6 +25,9 @@ p {
 	font-size:20px;
 	text-align:justify;
 	text-indent: 25px;
+	line-height:35px;
+	word-spacing:1.5;
+	letter-spacing: 5px;
 
 }
 
@@ -39,3 +42,6 @@ p {
 .name4{
 	text-decoration:line-through;
 }
+ p a{
+ 	margin-right:50px;
+ }
